@@ -40,4 +40,4 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 ## Other Random helpfuls
 
 * [This is Markdown](http://thisismarkdown.com/)
-* [Github Flavoured Markdown[(https://help.github.com/articles/github-flavored-markdown/)
+* [Github Flavoured Markdown](https://help.github.com/articles/github-flavored-markdown/)
