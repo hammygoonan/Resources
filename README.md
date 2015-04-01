@@ -23,6 +23,11 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 ### Angular
 
+* [Egghead.io Angular Videos](https://egghead.io/technologies/angularjs)
+* [Thinkster.io](https://thinkster.io/)
+* [Shaping up with AngularJS](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+* [AngularJS Documentation](https://angularjs.org/)
+
 ### React
 
 * [React Primer](https://github.com/mikechau/react-primer-draft)
