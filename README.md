@@ -62,6 +62,8 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 * [SkyBlue](https://github.com/Stanko/skyblue)
 * [Flat UI](http://designmodo.github.io/Flat-UI/)
+* [Bootstrap](http://getbootstrap.com/)
+* [Foundation](http://foundation.zurb.com/)
  
 ### Sass
 
