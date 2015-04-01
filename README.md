@@ -44,10 +44,17 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Setup your very own VPN server with Amazon EC2](http://www.sarfata.org/posts/setting-up-an-amazon-vpn-server.md/)
 * [Kickstarting Flask on Ubuntu (with Gunicorn)](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/)
 
-## CSS / Sass
+## HTML / CSS / Sass
+
+### Frameworks
 
 * [SkyBlue](https://github.com/Stanko/skyblue)
 * [Flat UI](http://designmodo.github.io/Flat-UI/)
+ 
+### Sass
+
+* [The Sass Way](http://thesassway.com/)
+* [Sass Guidelines](http://sass-guidelin.es/)
 
 ## Version Control
 
