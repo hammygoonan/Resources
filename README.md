@@ -4,12 +4,23 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 ## Python
 
+* [Neckbeard Republic](https://www.neckbeardrepublic.com/screencasts/)
+* [Python Shortcuts for the Python Beginner](http://www.maxburstein.com/blog/python-shortcuts-for-the-python-beginner/)
+* [Python: Batteries Included](http://www.leourbina.com/articles/2014/07/01/python-batteries-included.html)
+
 ### Flask
 
 * [Flask Boilerplate](https://github.com/mjhea0/flask-boilerplate)
 * [Discover Flask](https://github.com/realpython/discover-flask)
+* [Explore Flask](https://exploreflask.com/)
+* [SQLAlchemy and You](http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/)
+* [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
 
 ### Django
+
+* [Getting Started With Django](http://gettingstartedwithdjango.com/)
+* [Writing your first Django app](https://docs.djangoproject.com/en/1.7/intro/tutorial01/)
+* [Test-Driven Django Tutorial](http://www.tdd-django-tutorial.com/)
 
 ## PHP
 
@@ -43,6 +54,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [OpenVPN Access Server on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-install-openvpn-access-server-on-ubuntu-12-04)
 * [Setup your very own VPN server with Amazon EC2](http://www.sarfata.org/posts/setting-up-an-amazon-vpn-server.md/)
 * [Kickstarting Flask on Ubuntu (with Gunicorn)](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/)
+* [Starting web projects using Flask, virtualenv, pip](http://www.enigmeta.com/2012/08/16/starting-flask/)
 
 ## HTML / CSS / Sass
 
