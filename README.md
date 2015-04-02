@@ -28,6 +28,9 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 ### Magento
 
+* [n98-magerun](https://github.com/netz98/n98-magerun)
+* [modman](https://github.com/colinmollenhour/modman)
+
 ## Javascript
 
 ### jQuery
