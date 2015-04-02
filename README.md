@@ -30,8 +30,14 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 * [n98-magerun](https://github.com/netz98/n98-magerun)
 * [modman](https://github.com/colinmollenhour/modman)
+* [Speed profiling in Mangeto](http://fbrnc.net/blog/2012/08/magento-profiler#hello)
+* [Magento development tools](http://www.kingletas.com/2012/08/magento-developer-toolbox.html)
 
 ## Javascript
+
+### lodash
+
+* [Who needs jQuery anyway?](https://lodash.com/)
 
 ### jQuery
 
@@ -45,6 +51,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 ### React
 
 * [React Primer](https://github.com/mikechau/react-primer-draft)
+* [Thinking in React](http://facebook.github.io/react/blog/2013/11/05/thinking-in-react.html)
 
 ## DevOps
 
@@ -58,6 +65,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Setup your very own VPN server with Amazon EC2](http://www.sarfata.org/posts/setting-up-an-amazon-vpn-server.md/)
 * [Kickstarting Flask on Ubuntu (with Gunicorn)](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/)
 * [Starting web projects using Flask, virtualenv, pip](http://www.enigmeta.com/2012/08/16/starting-flask/)
+* [Zero to Hello World, Magento, Vagrant and nginx in 15 minutes](http://fbrnc.net/blog/2013/07/from-zero-to-hello-world-in-15-minutes)
 
 ## HTML / CSS / Sass
 
