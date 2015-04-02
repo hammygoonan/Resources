@@ -58,6 +58,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Setup your very own VPN server with Amazon EC2](http://www.sarfata.org/posts/setting-up-an-amazon-vpn-server.md/)
 * [Kickstarting Flask on Ubuntu (with Gunicorn)](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/)
 * [Starting web projects using Flask, virtualenv, pip](http://www.enigmeta.com/2012/08/16/starting-flask/)
+* [Zero to Hello World, Magento, Vagrant and nginx in 15 minutes](http://fbrnc.net/blog/2013/07/from-zero-to-hello-world-in-15-minutes)
 
 ## HTML / CSS / Sass
 
