@@ -47,6 +47,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Thinkster.io](https://thinkster.io/)
 * [Shaping up with AngularJS](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 * [AngularJS Documentation](https://angularjs.org/)
+* [AngularJS Cheat Sheet](https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf)
 
 ### React
 
