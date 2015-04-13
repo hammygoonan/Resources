@@ -77,6 +77,8 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Flat UI](http://designmodo.github.io/Flat-UI/)
 * [Bootstrap](http://getbootstrap.com/)
 * [Foundation](http://foundation.zurb.com/)
+* [Inuit CSS](http://inuitcss.com/)
+* [Primer CSS](http://primercss.io/)
  
 ### Sass
 
