@@ -25,6 +25,13 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 ## PHP
 
 * [A Beginners Guide to Composer](https://scotch.io/tutorials/a-beginners-guide-to-composer)
+ 
+### Frameworks
+
+* [Lumen](http://lumen.laravel.com/)
+* [Laravel](http://laravel.com/)
+* [CakePHP](http://cakephp.org/)
+* [Symfony](http://symfony.com/)
 
 ### Magento
 
