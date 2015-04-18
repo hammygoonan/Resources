@@ -16,7 +16,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Explore Flask](https://exploreflask.com/)
 * [SQLAlchemy and You](http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/)
 * [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
-* [Developing A Restful Micro Service in Python](http://skybert.net/python/developing-a-restful-micro-service-in-python/) (some good links at the bottom as well.
+* [Developing A Restful Micro Service in Python](http://skybert.net/python/developing-a-restful-micro-service-in-python/) (some good links at the bottom as well.)
 
 ### Django
 
@@ -105,6 +105,14 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Place Hold It](http://placehold.it/)
 * [The Noun Project](http://thenounproject.com)
 * [Colour Lovers](http://colourlovers.com)
+ 
+## Regular Expressions
+
+* [Regex101](https://regex101.com/)
+* [Regexr](http://www.regexr.com/)
+* [txt2re](http://txt2re.com/)
+* [RegexOne](http://regexone.com/)
+
 
 ## Other Random helpfuls
 
