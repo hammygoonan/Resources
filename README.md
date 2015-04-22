@@ -8,6 +8,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Python Shortcuts for the Python Beginner](http://www.maxburstein.com/blog/python-shortcuts-for-the-python-beginner/)
 * [Python: Batteries Included](http://www.leourbina.com/articles/2014/07/01/python-batteries-included.html)
 * [PyFormat](http://pyformat.info/)
+* [Porting Code to Python 3 with 2to3](http://www.diveintopython3.net/porting-code-to-python-3-with-2to3.html)
 
 ### Flask
 
