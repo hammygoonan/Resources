@@ -89,6 +89,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Foundation](http://foundation.zurb.com/)
 * [Inuit CSS](http://inuitcss.com/)
 * [Primer CSS](http://primercss.io/)
+* [Materialize](http://materializecss.com/)
  
 ### Sass
 
