@@ -24,6 +24,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Getting Started With Django](http://gettingstartedwithdjango.com/)
 * [Writing your first Django app](https://docs.djangoproject.com/en/1.7/intro/tutorial01/)
 * [Test-Driven Django Tutorial](http://www.tdd-django-tutorial.com/)
+* [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
 
 ## PHP
 
@@ -63,6 +64,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 * [React Primer](https://github.com/mikechau/react-primer-draft)
 * [Thinking in React](http://facebook.github.io/react/blog/2013/11/05/thinking-in-react.html)
+* [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
 
 ## DevOps
 
