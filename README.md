@@ -10,6 +10,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [PyFormat](http://pyformat.info/)
 * [Porting Code to Python 3 with 2to3](http://www.diveintopython3.net/porting-code-to-python-3-with-2to3.html)
 * [List of Python API Wrappers](https://github.com/realpython/list-of-python-api-wrappers)
+* [Understanding Decorators in 12 easy steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 
 ### Flask
 
