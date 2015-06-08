@@ -52,8 +52,6 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 * [Who needs jQuery anyway?](https://lodash.com/)
 
-### jQuery
-
 ### Angular
 
 * [Egghead.io Angular Videos](https://egghead.io/technologies/angularjs)
