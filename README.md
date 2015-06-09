@@ -125,3 +125,4 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Github Flavoured Markdown](https://help.github.com/articles/github-flavored-markdown/)
 * [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
 * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
+* [How to undo almost anything in Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
