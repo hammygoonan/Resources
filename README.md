@@ -106,8 +106,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 ## Design / Images
 
-* [Place Kittens](https://placekitten.com/)
-* [Place Hold It](http://placehold.it/)
+* [A Practical Guide to SVGs](https://svgontheweb.com/)
 * [The Noun Project](http://thenounproject.com)
 * [Colour Lovers](http://colourlovers.com)
  
