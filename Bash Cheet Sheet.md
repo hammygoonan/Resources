@@ -2,7 +2,9 @@
 
 ### System links:
 
-```ln -sfv <file to link> <symlink>```
+```
+	ln -sfv <file to link> <symlink>
+```
 
 * s - Create a symbolic link
 * f - If the target file already exists, then unlink it so that the link may occur.
@@ -10,8 +12,12 @@
 
 ### See what processes are running
 
-```htop```
+```
+  htop
+```
 
 or
 
-```ps aux | grep php```
+```
+  ps aux | grep php
+```
