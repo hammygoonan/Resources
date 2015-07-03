@@ -49,6 +49,8 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 ## Javascript
 
+* [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
+
 ### lodash
 
 * [Who needs jQuery anyway?](https://lodash.com/)
