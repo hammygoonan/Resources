@@ -68,6 +68,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [React Primer](https://github.com/mikechau/react-primer-draft)
 * [Thinking in React](http://facebook.github.io/react/blog/2013/11/05/thinking-in-react.html)
 * [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
+* [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 
 ## DevOps
 
