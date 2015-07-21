@@ -21,3 +21,8 @@ or
 ```
   ps aux | grep php
 ```
+
+# Python Related Commands
+```
+mkvirtualenv --python=/usr/local/bin/python3 --no-site-packages <env>
+```
