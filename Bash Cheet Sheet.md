@@ -22,6 +22,12 @@ or
   ps aux | grep php
 ```
 
+### Copy SSH Key
+```pbcopy < ~/.ssh/id_rsa.pub```
+
+### Reload Bash profile
+```. ~/.bash_profile```
+
 # Python Related Commands
 ```
 mkvirtualenv --python=/usr/local/bin/python3 --no-site-packages <env>
