@@ -132,6 +132,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
  
 ### Lorem Ipsum
 
+* [Segan Ipsum](http://saganipsum.com/)
 * [Cup Cake Ipsum](http://www.cupcakeipsum.com/)
 * [Samuel L. Ipsum](http://slipsum.com/)
 * [Bacon Ipsum](https://baconipsum.com/)
