@@ -30,7 +30,9 @@ or
 
 ### Permissions
 
-```find < directory > -type d -exec chmod 755 {} \;```
+```
+find < directory > -type d -exec chmod 755 {} \;
+```
 ```find < directory > -type f -exec chmod 644 {} \;```
 
 
