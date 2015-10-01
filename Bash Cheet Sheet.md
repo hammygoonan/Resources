@@ -28,6 +28,12 @@ or
 ### Reload Bash profile
 ```. ~/.bash_profile```
 
+### Permissions
+
+```find < directory > -type d -exec chmod 755 {} \;```
+```find < directory > -type f -exec chmod 644 {} \;```
+
+
 # Python Related Commands
 ```
 mkvirtualenv --python=/usr/local/bin/python3 --no-site-packages <env>
