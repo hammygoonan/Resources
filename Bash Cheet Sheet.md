@@ -33,7 +33,9 @@ or
 ```
 find < directory > -type d -exec chmod 755 {} \;
 ```
-```find < directory > -type f -exec chmod 644 {} \;```
+```
+find < directory > -type f -exec chmod 644 {} \;
+```
 
 
 # Python Related Commands
