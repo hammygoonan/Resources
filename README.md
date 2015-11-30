@@ -28,6 +28,8 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Writing your first Django app](https://docs.djangoproject.com/en/1.7/intro/tutorial01/)
 * [Test-Driven Django Tutorial](http://www.tdd-django-tutorial.com/)
 * [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
+* [Classy Class-Based Views](http://ccbv.co.uk/)
+* [Classy Django REST Framework](http://www.cdrf.co/)
 
 ## PHP
 
