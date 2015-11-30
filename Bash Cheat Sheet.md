@@ -49,5 +49,5 @@ mkvirtualenv --python=/usr/local/bin/python3 --no-site-packages <env>
 Format JSON in terminal:
 
 ```
-curl http://127.0.0.1:8000/regions/?format=json | python -m json.tool
+curl < JSON URL > | python -m json.tool
 ```
