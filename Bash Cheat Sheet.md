@@ -49,5 +49,5 @@ mkvirtualenv --python=/usr/local/bin/python3 --no-site-packages <env>
 Format JSON in terminal:
 
 ```
-curl < JSON URL > | python -m json.tool
+curl -i -H "Accept: application/json" -X POST -d "first_name=Hammy" < JSON URL > | python -m json.tool
 ```
