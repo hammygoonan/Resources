@@ -12,6 +12,8 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [List of Python API Wrappers](https://github.com/realpython/list-of-python-api-wrappers)
 * [Understanding Decorators in 12 easy steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 * [Good to Great Python Reads](http://jessenoller.com/good-to-great-python-reads/)
+* [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
+* [reStructuredText Docstring Format](https://www.python.org/dev/peps/pep-0287/)
 
 ### Flask
 
