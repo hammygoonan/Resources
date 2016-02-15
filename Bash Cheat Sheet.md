@@ -51,3 +51,9 @@ Format JSON in terminal:
 ```
 curl -i -H "Accept: application/json" -X POST -d "first_name=Hammy" < JSON URL > | python -m json.tool
 ```
+
+Set python path to current directory:
+
+```
+export PYTHONPATH=$PYTHONPATH:$PWD
+```
