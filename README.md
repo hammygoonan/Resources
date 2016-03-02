@@ -90,6 +90,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/?1)
 * [How To Serve Flask Applications with Gunicorn and Nginx](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-14-04)
 * [Free Certificates LetsEncrypt and Nginx](https://www.nginx.com/blog/free-certificates-lets-encrypt-and-nginx/)
+* [Deploying Software](https://zachholman.com/posts/deploying-software)
 
 ## DNS tools
 
