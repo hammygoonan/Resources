@@ -54,6 +54,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 ## Javascript
 
 * [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
+* [Javascript Modules a Beginner's Guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
 
 ### lodash
 
@@ -73,6 +74,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Thinking in React](http://facebook.github.io/react/blog/2013/11/05/thinking-in-react.html)
 * [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+* [ReactJS Fundamentals (course)](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 
 ## DevOps
 
