@@ -55,6 +55,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 * [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
 * [Javascript Modules a Beginner's Guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
+* [Egghead.io](https://egghead.io)
 
 ### lodash
 
