@@ -62,6 +62,12 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 * [Who needs jQuery anyway?](https://lodash.com/)
 
+### NodeJS
+
+* [Felix's Node.js Guide](http://nodeguide.com/index.html)
+* [Bulletproof Node JS Coding/](http://stella.laurenzo.org/2011/03/bulletproof-node-js-coding/)
+* [Forever](https://www.npmjs.com/package/forever-mac)
+
 ### Angular
 
 * [Egghead.io Angular Videos](https://egghead.io/technologies/angularjs)
