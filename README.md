@@ -14,6 +14,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Good to Great Python Reads](http://jessenoller.com/good-to-great-python-reads/)
 * [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [reStructuredText Docstring Format](https://www.python.org/dev/peps/pep-0287/)
+* [Python Mocking Cookbook](http://chase-seibert.github.io/blog/2015/06/25/python-mocking-cookbook.html)
 
 ### Flask
 
