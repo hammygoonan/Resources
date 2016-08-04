@@ -58,6 +58,8 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Javascript Modules a Beginner's Guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
 * [Egghead.io](https://egghead.io)
 * [fState of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)(book)
+* [Eloquent Javascript](http://eloquentjavascript.net/)(book)
 
 ### lodash
 
@@ -68,6 +70,9 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Felix's Node.js Guide](http://nodeguide.com/index.html)
 * [Bulletproof Node JS Coding/](http://stella.laurenzo.org/2011/03/bulletproof-node-js-coding/)
 * [Forever](https://www.npmjs.com/package/forever-mac)
+* [Module Patterns](https://darrenderidder.github.io/talks/ModulePatterns/#/)
+* [Structuring Your Node App](https://medium.com/@gwilakers/structuring-your-node-js-app-67d20c2ab8a3#.7nie4v95r)
+* [Node Best Practices](http://www.codemag.com/article/1407041)
 
 ### Angular
 
