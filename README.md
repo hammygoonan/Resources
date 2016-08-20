@@ -33,6 +33,8 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
 * [Classy Class-Based Views](http://ccbv.co.uk/)
 * [Classy Django REST Framework](http://www.cdrf.co/)
+* [Packaging Django Applications as Docker Container Images](http://michal.karzynski.pl/blog/2015/04/19/packaging-django-applications-as-docker-container-images/)
+* [Using Docker and Docker Compose for local Django development](https://www.calazan.com/using-docker-and-docker-compose-for-local-django-development-replacing-virtualenv/)
 
 ## PHP
 
