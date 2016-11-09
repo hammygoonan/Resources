@@ -43,17 +43,23 @@ find < directory > -type f -exec chmod 644 {} \;
 Create new virtual env with Python3:
 
 ```
-mkvirtualenv --python=/usr/local/bin/python3 --no-site-packages <env>
+$ mkvirtualenv --python=/usr/local/bin/python3 <env>
 ```
 
 Format JSON in terminal:
 
 ```
-curl -i -H "Accept: application/json" -X POST -d "first_name=Hammy" < JSON URL > | python -m json.tool
+$ curl -i -H "Accept: application/json" -X POST -d "first_name=Hammy" < JSON URL > | python -m json.tool
 ```
 
 Set python path to current directory:
 
 ```
-export PYTHONPATH=$PYTHONPATH:$PWD
+$ export PYTHONPATH=$PYTHONPATH:$PWD
+```
+
+Simple HTTP Server:
+
+```
+$ python -m SimpleHTTPServer 8000
 ```
