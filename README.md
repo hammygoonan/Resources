@@ -2,6 +2,10 @@
 
 Below are a bunch of resources I refer to regularly. Hopefully they're helpful for someone.
 
+## Programming
+
+* [SourceMaking](https://sourcemaking.com/design_patterns)
+
 ## Python
 
 * [Neckbeard Republic](https://www.neckbeardrepublic.com/screencasts/)
