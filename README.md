@@ -180,6 +180,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Not Lorem Ipsum](http://notloremipsum.com/)
  
 ### Placeholder Images
+* [Fill Murray](http://www.fillmurray.com/)
 * [Place Hold It](http://placehold.it/)
 * [Lorem Pixel](http://lorempixel.com/)
 * [Place Kitten](https://placekitten.com/)
