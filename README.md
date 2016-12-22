@@ -98,6 +98,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [ReactJS Fundamentals (course)](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 * [9 Things Every ReactJS Beginner Should Know)](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
 * [React Patterns](http://reactpatterns.com/)
+* [React 'Aha' moments](https://tylermcginnis.com/react-aha-moments/)
 
 ## DevOps
 
