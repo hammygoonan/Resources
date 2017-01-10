@@ -1,3 +1,7 @@
+# To get started:
+# sudo wget https://raw.githubusercontent.com/hammygoonan/Resources/master/setup/php_mysql.sh -O setup.sh && sh setup.sh
+#
+
 sudo apt-get update -y
 sudo apt-get upgrade -y
 
