@@ -8,7 +8,7 @@ sudo apt-get upgrade -y
 
 curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 
-sudo apt-get install -y fail2ban git nginx python3.5 nodejs build-essential postgresql postgresql-contrib python3-pip python3-dev python-psycopg2 libpq-dev
+sudo apt-get install -y fail2ban git nginx nodejs postgresql postgresql-contrib python3-pip python3-dev libpq-dev
 
 sudo adduser falconry
 sudo mkdir /home/falconry/.ssh
