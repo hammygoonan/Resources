@@ -41,6 +41,10 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Packaging Django Applications as Docker Container Images](http://michal.karzynski.pl/blog/2015/04/19/packaging-django-applications-as-docker-container-images/)
 * [Using Docker and Docker Compose for local Django development](https://www.calazan.com/using-docker-and-docker-compose-for-local-django-development-replacing-virtualenv/)
 
+## PostgreSQL
+
+* [How To Use PostgreSQL with your Django Application on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-16-04)
+
 ## PHP
 
 * [A Beginners Guide to Composer](https://scotch.io/tutorials/a-beginners-guide-to-composer)
@@ -49,15 +53,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 * [Lumen](http://lumen.laravel.com/)
 * [Laravel](http://laravel.com/)
-* [CakePHP](http://cakephp.org/)
 * [Symfony](http://symfony.com/)
-
-### Magento
-
-* [n98-magerun](https://github.com/netz98/n98-magerun)
-* [modman](https://github.com/colinmollenhour/modman)
-* [Speed profiling in Mangeto](http://fbrnc.net/blog/2012/08/magento-profiler#hello)
-* [Magento development tools](http://www.kingletas.com/2012/08/magento-developer-toolbox.html)
 
 ## Javascript
 
@@ -68,10 +64,6 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)(book)
 * [Eloquent Javascript](http://eloquentjavascript.net/)(book)
 
-### lodash
-
-* [Who needs jQuery anyway?](https://lodash.com/)
-
 ### NodeJS
 
 * [Felix's Node.js Guide](http://nodeguide.com/index.html)
@@ -80,14 +72,6 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Module Patterns](https://darrenderidder.github.io/talks/ModulePatterns/#/)
 * [Structuring Your Node App](https://medium.com/@gwilakers/structuring-your-node-js-app-67d20c2ab8a3#.7nie4v95r)
 * [Node Best Practices](http://www.codemag.com/article/1407041)
-
-### Angular
-
-* [Egghead.io Angular Videos](https://egghead.io/technologies/angularjs)
-* [Thinkster.io](https://thinkster.io/)
-* [Shaping up with AngularJS](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
-* [AngularJS Documentation](https://angularjs.org/)
-* [AngularJS Cheat Sheet](https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf)
 
 ### React
 
@@ -108,11 +92,8 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [A Beginners Guide to Vagrant](http://www.erikaheidi.com/blog/a-begginers-guide-to-vagrant-getting-your-portable-development-e)
 * [My First 5 Minutes On A Server](http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
 * [Easy Django Deployment](http://ericholscher.com/blog/2010/aug/16/lessons-learned-dash-easy-django-deployment/)
-* [OpenVPN Access Server on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-install-openvpn-access-server-on-ubuntu-12-04)
-* [Setup your very own VPN server with Amazon EC2](http://www.sarfata.org/posts/setting-up-an-amazon-vpn-server.md/)
 * [Kickstarting Flask on Ubuntu (with Gunicorn)](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/)
 * [Starting web projects using Flask, virtualenv, pip](http://www.enigmeta.com/2012/08/16/starting-flask/)
-* [Zero to Hello World, Magento, Vagrant and nginx in 15 minutes](http://fbrnc.net/blog/2013/07/from-zero-to-hello-world-in-15-minutes)
 * [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/?1)
 * [How To Serve Flask Applications with Gunicorn and Nginx](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-14-04)
 * [Free Certificates LetsEncrypt and Nginx](https://www.nginx.com/blog/free-certificates-lets-encrypt-and-nginx/)
@@ -159,7 +140,6 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Regexr](http://www.regexr.com/)
 * [txt2re](http://txt2re.com/)
 * [RegexOne](http://regexone.com/)
-
 
 ## Other Random helpfuls
 
