@@ -7,7 +7,7 @@ sudo apt-get upgrade -y
 
 curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 
-sudo apt-get install -y fail2ban git nginx mysql-server php7.1-fpm php7.1-mysql
+sudo apt-get install -y fail2ban git nginx nodejs mysql-server php7.1-fpm php7.1-mysql
 
 sudo adduser falconry
 sudo mkdir /home/falconry/.ssh
