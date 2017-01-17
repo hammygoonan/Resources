@@ -25,3 +25,10 @@ sudo service ssh restart
 
 sudo npm install foundation-cli -g
 sudo npm install bower -g
+
+
+# chown webroot to <username>:www-data
+# check permissions:
+#     find < directory > -type d -exec chmod 755 {} \;
+#     find < directory > -type f -exec chmod 644 {} \;
+#     find < media/upload directory > -type d -exec chmod 775 {} \;
