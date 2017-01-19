@@ -108,6 +108,9 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 ## HTML / CSS / Sass
 
+* [Block Element Modifier](http://getbem.com/)
+* [AirBnB CSS / SCSS Guide](https://github.com/airbnb/css)
+
 ### Frameworks
 
 * [SkyBlue](https://github.com/Stanko/skyblue)
