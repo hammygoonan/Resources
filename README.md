@@ -32,8 +32,8 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 ### Django
 
+* [Using Amazon S3 to Store your Django Site's Static and Media Files](https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/)
 * [Getting Started With Django](http://gettingstartedwithdjango.com/)
-* [Writing your first Django app](https://docs.djangoproject.com/en/1.7/intro/tutorial01/)
 * [Test-Driven Django Tutorial](http://www.tdd-django-tutorial.com/)
 * [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
 * [Classy Class-Based Views](http://ccbv.co.uk/)
