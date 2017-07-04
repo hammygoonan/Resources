@@ -63,3 +63,9 @@ Simple HTTP Server:
 ```
 $ python -m SimpleHTTPServer 8000
 ```
+
+# Services
+
+```
+$ journalctl -e -f -n40 -u someservice
+```
