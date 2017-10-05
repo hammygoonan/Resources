@@ -69,3 +69,9 @@ $ python -m SimpleHTTPServer 8000
 ```
 $ journalctl -e -f -n40 -u someservice
 ```
+
+# Generate random string
+
+```
+$ openssl rand -base64 56
+```
