@@ -86,6 +86,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 ## DevOps
 
+* [15 Things you should know about ansible](http://codeheaven.io/15-things-you-should-know-about-ansible/)
 * [Securing SSH](http://wiki.centos.org/HowTos/Network/SecuringSSH)
 * [A Proper Server Naming Schem](http://mnx.io/blog/a-proper-server-naming-scheme/)
 * [Install Nginx, PHP-FPM, MySQL and phpMyAdmin on OS X](http://blog.frd.mn/install-nginx-php-fpm-mysql-and-phpmyadmin-on-os-x-mavericks-using-homebrew/)
