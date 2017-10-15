@@ -73,6 +73,10 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Structuring Your Node App](https://medium.com/@gwilakers/structuring-your-node-js-app-67d20c2ab8a3#.7nie4v95r)
 * [Node Best Practices](http://www.codemag.com/article/1407041)
 
+### VueJS
+
+* [Two way data binding with VueJS and Vuex](https://ypereirareis.github.io/blog/2017/04/25/vuejs-two-way-data-binding-state-management-vuex-strict-mode/)
+
 ### React
 
 * [React Primer](https://github.com/mikechau/react-primer-draft)
