@@ -48,12 +48,6 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 ## PHP
 
 * [A Beginners Guide to Composer](https://scotch.io/tutorials/a-beginners-guide-to-composer)
- 
-### Frameworks
-
-* [Lumen](http://lumen.laravel.com/)
-* [Laravel](http://laravel.com/)
-* [Symfony](http://symfony.com/)
 
 ## Javascript
 
@@ -114,17 +108,12 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 ## HTML / CSS / Sass
 
 * [Block Element Modifier](http://getbem.com/)
-* [AirBnB CSS / SCSS Guide](https://github.com/airbnb/css)
+* [Front End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
 
 ### Frameworks
 
-* [SkyBlue](https://github.com/Stanko/skyblue)
-* [Flat UI](http://designmodo.github.io/Flat-UI/)
-* [Bootstrap](http://getbootstrap.com/)
 * [Foundation](http://foundation.zurb.com/)
-* [Inuit CSS](http://inuitcss.com/)
-* [Primer CSS](http://primercss.io/)
-* [Materialize](http://materializecss.com/)
+* [Bulma](https://bulma.io/)
  
 ### Sass
 
