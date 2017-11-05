@@ -19,6 +19,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [reStructuredText Docstring Format](https://www.python.org/dev/peps/pep-0287/)
 * [Python Mocking Cookbook](http://chase-seibert.github.io/blog/2015/06/25/python-mocking-cookbook.html)
+* [Awesome Python](https://github.com/vinta/awesome-python)
 
 ### Flask
 
@@ -40,6 +41,10 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Classy Django REST Framework](http://www.cdrf.co/)
 * [Packaging Django Applications as Docker Container Images](http://michal.karzynski.pl/blog/2015/04/19/packaging-django-applications-as-docker-container-images/)
 * [Using Docker and Docker Compose for local Django development](https://www.calazan.com/using-docker-and-docker-compose-for-local-django-development-replacing-virtualenv/)
+* [Awesome Django](https://gitlab.com/rosarior/awesome-django)
+
+### Wagtail
+* [Awesome Wagtail](https://github.com/springload/awesome-wagtail)
 
 ## PostgreSQL
 
