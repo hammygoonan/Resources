@@ -102,6 +102,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [How To Serve Flask Applications with Gunicorn and Nginx](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-14-04)
 * [Free Certificates LetsEncrypt and Nginx](https://www.nginx.com/blog/free-certificates-lets-encrypt-and-nginx/)
 * [Deploying Software](https://zachholman.com/posts/deploying-software)
+* [Host a static site on Amazon S3, with custom domain and SSL](https://coderwall.com/p/qfxp7a/host-a-static-site-on-amazon-s3-with-custom-domain-and-ssl)
 
 ## DNS tools
 
