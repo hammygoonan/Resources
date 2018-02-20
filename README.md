@@ -8,11 +8,9 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 ## Python
 
+* [Python Async Simplified](https://www.aeracode.org/2018/02/19/python-async-simplified)
 * [Neckbeard Republic](https://www.neckbeardrepublic.com/screencasts/)
-* [Python Shortcuts for the Python Beginner](http://www.maxburstein.com/blog/python-shortcuts-for-the-python-beginner/)
-* [Python: Batteries Included](http://www.leourbina.com/articles/2014/07/01/python-batteries-included.html)
 * [PyFormat](http://pyformat.info/)
-* [Porting Code to Python 3 with 2to3](http://www.diveintopython3.net/porting-code-to-python-3-with-2to3.html)
 * [List of Python API Wrappers](https://github.com/realpython/list-of-python-api-wrappers)
 * [Understanding Decorators in 12 easy steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 * [Good to Great Python Reads](http://jessenoller.com/good-to-great-python-reads/)
