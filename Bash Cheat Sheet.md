@@ -64,6 +64,22 @@ Simple HTTP Server:
 $ python -m SimpleHTTPServer 8000
 ```
 
+# Postgres Commands
+
+Import database with correct permissions:
+
+```
+$ psql -d <DATABASE NAME> -U <USERNAME> -f <FILENAME>
+```
+
+Export database without permissions:
+
+```
+pg_dump --no-owner --no-acl <DATABASE NAME> --host=<HOSTNAME> --port=5432 --username <USERNAME> --password > <FILENAME>
+```
+
+
+
 # Services
 
 ```
