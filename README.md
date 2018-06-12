@@ -74,6 +74,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 ### VueJS
 
 * [Two way data binding with VueJS and Vuex](https://ypereirareis.github.io/blog/2017/04/25/vuejs-two-way-data-binding-state-management-vuex-strict-mode/)
+* [VueJs Considerations and Tricks](https://blog.webf.zone/vue-js-considerations-and-tricks-fa7e0e4bb7bb)
 
 ### React
 
