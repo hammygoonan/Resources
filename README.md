@@ -13,6 +13,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Black](https://black.readthedocs.io/en/stable/)
 * [Flacon](https://falconframework.org)
 * [Hug](http://www.hug.rest/)
+* [Hypothesis](https://hypothesis.readthedocs.io/en/latest/)
 * [Zappa](https://github.com/Miserlou/Zappa)
 * [Neckbeard Republic](https://www.neckbeardrepublic.com/screencasts/)
 * [PyFormat](http://pyformat.info/)
