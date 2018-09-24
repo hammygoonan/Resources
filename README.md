@@ -9,6 +9,11 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 ## Python
 
 * [Python Async Simplified](https://www.aeracode.org/2018/02/19/python-async-simplified)
+* [Python Patterns](http://python-patterns.guide/)
+* [Black](https://black.readthedocs.io/en/stable/)
+* [Flacon](https://falconframework.org)
+* [Hug](http://www.hug.rest/)
+* [Zappa](https://github.com/Miserlou/Zappa)
 * [Neckbeard Republic](https://www.neckbeardrepublic.com/screencasts/)
 * [PyFormat](http://pyformat.info/)
 * [List of Python API Wrappers](https://github.com/realpython/list-of-python-api-wrappers)
@@ -48,6 +53,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 ## PostgreSQL
 
 * [How To Use PostgreSQL with your Django Application on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-16-04)
+* [Modern SQL](https://modern-sql.com/)
 
 ## PHP
 
@@ -153,6 +159,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
 * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
 * [How to undo almost anything in Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+* [JSON API](http://jsonapi.org/)
  
 ### Lorem Ipsum
 
