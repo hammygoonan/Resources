@@ -5,6 +5,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 ## Programming
 
 * [SourceMaking](https://sourcemaking.com/design_patterns)
+* [wizard zines](https://wizardzines.com/)
 
 ## Python
 
