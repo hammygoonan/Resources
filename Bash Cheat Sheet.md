@@ -78,6 +78,16 @@ Export database without permissions:
 pg_dump --no-owner --no-acl <DATABASE NAME> --host=<HOSTNAME> --port=5432 --username <USERNAME> --password > <FILENAME>
 ```
 
+# MongoDB and Docker-compose
+
+```
+docker-compose exec -T <mongodb service> sh -c 'mongodump --archive' > db.dump
+```
+
+```
+docker-compose exec -T <mongodb service> sh -c 'mongorestore --archive' < db.dump
+```
+
 
 
 # Services
