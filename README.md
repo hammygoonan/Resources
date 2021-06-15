@@ -6,6 +6,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 * [SourceMaking](https://sourcemaking.com/design_patterns)
 * [wizard zines](https://wizardzines.com/)
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## Python
 
@@ -107,6 +108,10 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [How To Serve Flask Applications with Gunicorn and Nginx](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-18-04)
 * [Deploying Software](https://zachholman.com/posts/deploying-software)
 * [Host a static site on Amazon S3, with custom domain and SSL](https://coderwall.com/p/qfxp7a/host-a-static-site-on-amazon-s3-with-custom-domain-and-ssl)
+
+## Docker
+
+* [The Docker Handbook](https://docker-handbook.farhan.dev/)
 
 ## DNS tools
 
