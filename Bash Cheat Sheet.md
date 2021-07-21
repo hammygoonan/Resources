@@ -84,6 +84,16 @@ or
 pg_dump <DB NAME> -U <USER> -O -x -Fc -W > database.sql
 ```
 
+Drop database:
+
+```
+DROP SCHEMA public CASCADE;
+CREATE SCHEMA public;
+     
+GRANT ALL ON SCHEMA public TO postgres;
+GRANT ALL ON SCHEMA public TO public;
+```
+
 # MongoDB and Docker-compose
 
 ```
