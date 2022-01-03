@@ -87,6 +87,7 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 ### React
 
+* [React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
 * [React Primer](https://github.com/mikechau/react-primer-draft)
 * [Thinking in React](http://facebook.github.io/react/blog/2013/11/05/thinking-in-react.html)
 * [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
@@ -125,11 +126,6 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Block Element Modifier](http://getbem.com/)
 * [Front End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
 * [Responsive Images with Srcset- nd Sizes](https://medium.com/@woutervanderzee/responsive-images-with-srcset-and-sizes-fc434845e948)
-
-### Frameworks
-
-* [Foundation](http://foundation.zurb.com/)
-* [Bulma](https://bulma.io/)
  
 ### Sass
 
