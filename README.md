@@ -180,3 +180,14 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Place Hold It](http://placehold.it/)
 * [Lorem Pixel](http://lorempixel.com/)
 * [Place Kitten](https://placekitten.com/)
+
+### Event Sourcing
+* [Martin Fowler - CQRS](https://www.martinfowler.com/bliki/CQRS.html)
+* [Martin Fowler - Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+* [Event Sourcery, Full Course](https://www.youtube.com/playlist?list=PLQuwqoolg4aI6v1GvtRg3NgT0PBBHVqii)
+* [Event Sauce - Learning Material](https://eventsauce.io/docs/learning-material/)
+* [Event Store DB](https://www.eventstore.com/)
+* [Event Sourcing - Greg Young - GOTO 2014](https://www.youtube.com/watch?v=8JKjvY4etTY)
+* [Greg Young's CQRS Class: Domain Driven Design, CQRS, and Event Sourcing](http://subscriptions.viddler.com/GregYoung/n2mwfa?token=gecl6gnrq9)
+* [Event Store Forum](https://discuss.eventstore.com/)
+* [Node Event Store Client](https://github.com/nicdex/node-eventstore-client)
