@@ -47,16 +47,13 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 
 * [Regex101](https://regex101.com/)
 
-## Accessibility
-
-* [accessguide.io/](https://accessguide.io/)
-
 ## Other Random helpfuls
 
 * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
 
 ## Standards
 
+* [accessguide.io/](https://accessguide.io/)
 * [JSON API](http://jsonapi.org/)
 * [The Webhook Standard](https://www.standardwebhooks.com/)
 
@@ -82,6 +79,17 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Awesome CTO](https://github.com/kuchin/awesome-cto)
 * [An Elegant Puzzle Notes](https://github.com/keyvanakbary/learning-notes/blob/master/books/an-elegant-puzzle.md)
 * [Signs that it’s time to leave a company…](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
+
+## Blogs / RSS Feeds
+
+* [The ReadME Project](https://github.com/readme)
+* [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
+* [Effective Software Design](https://effectivesoftwaredesign.com/)
+* [The Engineering Manager](https://www.theengineeringmanager.com/)
+* [The Code Whisperer](https://blog.thecodewhisperer.com/)
+* [Martin Fowler](https://martinfowler.com/)
+* [8th Light Insights](https://8thlight.com/insights)
+* [CodeKraft](https://abdulapopoola.com/)
 
 ## Books
 
