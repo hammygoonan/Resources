@@ -21,11 +21,6 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
 * [A Systematic Approach to Reducing Technical Debt](https://engineering.zalando.com/posts/2021/11/technical-debt.html)
 
-## DNS tools
-
-* [MX Toolbox](http://mxtoolbox.com/)
-* [What's My DNS](https://www.whatsmydns.net)
-
 ## HTML / CSS
 
 * [Block Element Modifier](http://getbem.com/)
@@ -78,7 +73,8 @@ Below are a bunch of resources I refer to regularly. Hopefully they're helpful f
 * [How to put the plus in ‘staff+’ engineer](https://github.com/readme/guides/staff-engineers)
 * [Awesome CTO](https://github.com/kuchin/awesome-cto)
 * [An Elegant Puzzle Notes](https://github.com/keyvanakbary/learning-notes/blob/master/books/an-elegant-puzzle.md)
-* [Signs that it’s time to leave a company…](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
+* [Signs that it’s time to leave a company](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
+* [Professional Programming](https://github.com/charlax/professional-programming)
 
 ## Blogs / RSS Feeds
 
